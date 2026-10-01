@@ -1,0 +1,7 @@
+{
+  "name": "8WHIE KaliDroid - Android Termux Kali Linux Installer",
+  "description": "Original, legitimate open-source Termux utility for installing supported Kali Linux environments on Android with rootless, GUI, CLI, and SSH workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
